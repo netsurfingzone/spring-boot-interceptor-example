@@ -1,4 +1,4 @@
-# spring-boot-interceptor-example
+# Spring Boot Interceptor example
 
 Spring Boot Interceptor example. See complete example here https://www.netsurfingzone.com/spring/spring-boot-interceptor-example/
 
